@@ -34,7 +34,7 @@ nav a.active {
 /* HERO SECTION */
 .hero {
     height: 70vh;
-    background: url('hero.jpg') center/cover no-repeat;
+    background: url(https://images.ctfassets.net/09muo917z9ra/6ybwa3YfoaSFL37UsHqfFn/fc580e87ce79d899b1666cab1253028c/file_00000000ce5c722f8d6d65a709a21a3f.png) center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
